@@ -36,3 +36,4 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 [Google Search: get all numeric columns in dataframe](https://www.google.com/search?q=pandas+dataframe+get+all+numeric+columns)
 
 [One Hot Encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
+cambio
